@@ -1,0 +1,43 @@
+    if(key>a[middle])Then
+    lower<-middle+1
+    else
+    upper<-middle-1
+    endif
+    until(a[middle]=key)or(lower>upper)
+    if(lower>upper)
+    return -1
+    else
+    return middle
+    end if
+    end module
+
+}
+
+There in terms of the size of array the complexity of O(log2(sizeof array))
+
+DE Kruth Searchin and sorting
+
+
+Sorting Algorithm and its types and applications
+
+QuickSort Algorithm O(n^2) ,Average O(xlog(n))
+
+Merge Sort O(nlog(n))
+
+
+//Quick Sort
+
+Principle of Divide and Conquer
+Is used for other applications divide and Conquer
+
+// Here after this sorting solve divide and Conquer questions
+
+Alogorithm of Quick sorted
+
+pmodule(v-array,x)
+
+int i,j;
+i=left;
+
+
+
