@@ -1,4 +1,4 @@
-/*
+
 
 Creating a method to define a linked list class and to solve any given problem
 // Push This code to GitHub
@@ -107,4 +107,3 @@ int main(){
 
 
 
-*/
