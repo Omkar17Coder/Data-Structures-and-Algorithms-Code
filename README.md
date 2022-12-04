@@ -1,3 +1,3 @@
-# Data-Structures-and-Algorithms-Code
+# Data-Structures-and-Algorithms-Codes
 
-This Repositry the codes of the questions i have soved in my DSA-LAB
+
